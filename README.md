@@ -1,6 +1,6 @@
 高清身份证图片在线生成器<br>
 👉 <a href="https://idcard.kesug.com/" target="_blank"> idcard.kesug.com</a>  
-👉 <a href="https://idimg.pages.dev/" target="_blank"> idcard.kesug.com</a>  
+👉 <a href="https://idimg.pages.dev/" target="_blank"> idimg.pages.dev</a>  
 👉 <a href="https://faketrump2028.github.io/idcard/" target="_blank"> GitHub Pages </a>
 
 <img width="1004" height="618" alt="Group 24-min" src="https://github.com/user-attachments/assets/ba905920-b571-4aa9-9f35-5150b93d222a" />
