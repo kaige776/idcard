@@ -1,5 +1,4 @@
 高清身份证图片在线生成器<br>
-👉 <a href="https://idcard.kesug.com/" target="_blank"> idcard.kesug.com</a>  
 👉 <a href="https://idimg.pages.dev/" target="_blank"> idimg.pages.dev</a>  
 👉 <a href="https://faketrump2028.github.io/idcard/" target="_blank"> GitHub Pages </a>
 
