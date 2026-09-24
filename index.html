@@ -2,29 +2,32 @@
 <html lang="zh-CN">
 <head>
 	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0,, maximum-scale=1.0,user-scalable=no,minimal-ui"/>
-	<meta name="description" content="在线身份证高清图片生成器，手动输入或一键自动生成，免费使用。">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+	<meta name="description" content="在线身份证高清图片生成器，手动输入或一键自动生成，免费使用。" />
+	<meta name="theme-color" content="#ffffff" />
+	<meta property="og:title" content="身份证生成器" />
+	<meta property="og:description" content="在线身份证高清图片生成器，手动输入或一键自动生成，免费使用。" />
+	<meta property="og:type" content="website" />
 	<link rel="icon" href="/idcard/assets/favicon-DBp-OqJ7.ico" />
-	<link rel="canonical" href="https://idcard.kesug.com/" />
+	<link rel="canonical" href="https://kaige776.github.io/idcard/" />
 
 	<title>身份证生成器</title>
 
-	<script >
+	<script>
 		if (window.location.search === '?i=1') {
 			const url = new URL(window.location.href);
 			url.search = '';
 			window.history.replaceState({}, '', url.toString());
 		}
-	</script >
+	</script>
 
-  <script type="module" crossorigin src="/idcard/assets/index-CoPiKroS.js"></script>
-  <link rel="stylesheet" crossorigin href="/idcard/assets/index-DU_OhS_B.css">
+	<script type="module" crossorigin src="/idcard/assets/index-CoPiKroS.js"></script>
+	<link rel="stylesheet" crossorigin href="/idcard/assets/index-DU_OhS_B.css" />
 </head>
 <body>
 
 <div id="app"></div>
 <h1 style="display: none">身份证高清图片在线生成器</h1>
-
 
 </body>
 </html>
